@@ -1,0 +1,7 @@
+classes= 2
+train  = C:/Users/Ale/Documents/Code/Python/ProjetoYOLO/train.txt
+valid  = C:/Users/Ale/Documents/Code/Python/ProjetoYOLO/test.txt
+names = C:/Users/Ale/Documents/Code/Python/ProjetoYOLO/labels.txt
+backup = C:/Users/Ale/Documents/Code/Python/ProjetoYOLO/backup/
+
+
